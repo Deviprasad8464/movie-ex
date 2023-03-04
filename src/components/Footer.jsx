@@ -37,7 +37,7 @@ const Footer = (props) => {
           </div>
           <div className="footer-creator">CreatedBy</div>
           <div className="footer-creator-name">
-            <span>&copy;</span>Sai Nuthan Reddy
+            <span>&copy;</span>Deviprasad
           </div>
         </div>
         <div className="footer-right">

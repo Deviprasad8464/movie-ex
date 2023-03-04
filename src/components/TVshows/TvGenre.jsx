@@ -95,7 +95,7 @@ class TvGenre extends React.Component {
             <div className="genre-test-quote">
               “Happiness is ... watching just one more episode of your favourite
               tv series till you can barely keep you eyes open.”{" "}
-              <span className="genre-test-quote-small">– Sai Nuthan Reddy</span>
+              <span className="genre-test-quote-small">– Deviprasad</span>
             </div>
           </div>
         )}

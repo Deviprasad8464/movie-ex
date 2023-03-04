@@ -70,7 +70,7 @@ const PeopleMain = () => {
           </a>
         </div>
         <div className="movie-footer-by">
-          <span>&copy;</span>Sai Nuthan Reddy
+          <span>&copy;</span>Deviprasad
         </div>
       </div>
     </div>
